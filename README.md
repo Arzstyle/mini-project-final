@@ -18,7 +18,7 @@ Proyek ini bertujuan untuk mengimplementasikan dan menganalisis dua algoritma pe
 
 ---
  ## **MODULE TAMBAHAN**
- Catatan: Pastikan library prettytable terinstall di Visual Studio COde untuk Python, agar output table bisa terlihat.
+ Catatan: Pastikan library prettytable terinstall di Visual Studio Code untuk Python, agar output table bisa terlihat.
 
  **Contoh:** 
 ``` 

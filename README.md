@@ -17,6 +17,14 @@ Proyek ini bertujuan untuk mengimplementasikan dan menganalisis dua algoritma pe
 **Dosen Pengampu:** Zaaenal Alamsyah, M.Kom
 
 ---
+ ## **MODULE TAMBAHAN**
+ Catatan: Pastikan library prettytable terinstall di Visual Studio COde untuk Python, agar output table bisa terlihat.
+
+ **Contoh:** 
+``` 
+pip install prettytable
+```
+
 
 ## **Algoritma yang Digunakan**
 

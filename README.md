@@ -14,7 +14,7 @@ Proyek ini bertujuan untuk mengimplementasikan dan menganalisis dua algoritma pe
 **Kelas:** TI23A
 
 **Mata Kuliah:** Kompleksitas Algoritma  
-**Dosen Pengampu:** Zaaenal Alamsyah, M.Kom
+**Dosen Pengampu:** Zaenal Alamsyah, M.Kom
 
 ---
  ## **MODULE TAMBAHAN**

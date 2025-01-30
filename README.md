@@ -10,7 +10,7 @@ Proyek ini bertujuan untuk mengimplementasikan dan menganalisis dua algoritma pe
 - M. Zulfan Mulana aldiansyah
 - M. Ghibran Muslih
 - M. Sinar Agusta
-- Arizieq Iskandar
+- M. Ariezieq Iskandar
 
 **Kelas:** TI23A
 

@@ -8,6 +8,7 @@ Proyek ini bertujuan untuk mengimplementasikan dan menganalisis dua algoritma pe
 ### Kelompok 5
 - M. Akbar Rizky Saputra
 - M. Zulfan Mulana aldiansyah
+- M. Ghibran Muslih
 - M. Sinar Agusta
 - Arizieq Iskandar
 
